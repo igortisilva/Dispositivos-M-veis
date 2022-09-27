@@ -22,3 +22,6 @@ Link Telas: https://app.uizard.io/p/bdd95945
 
 
 <table class="c8"><tbody><tr class="c1"><td class="c9" colspan="1" rowspan="1"><p class="c0"><span class="c4">RF08</span></p></td><td class="c15" colspan="1" rowspan="1"><p class="c0"><span class="c2">Recomendação de rota turística. </span></p></td></tr><tr class="c1"><td class="c9" colspan="1" rowspan="1"><p class="c0"><span class="c4">Como</span></p></td><td class="c15" colspan="1" rowspan="1"><p class="c0"><span class="c2">Usuário do sistema</span></p></td></tr><tr class="c1"><td class="c9" colspan="1" rowspan="1"><p class="c0"><span class="c4">Eu quero</span></p></td><td class="c15" colspan="1" rowspan="1"><p class="c0"><span class="c2">Uma recomendação dado a minha localização e tipo de turismo desejado</span></p></td></tr><tr class="c1"><td class="c9" colspan="1" rowspan="1"><p class="c0"><span class="c4">Para</span></p></td><td class="c15" colspan="1" rowspan="1"><p class="c0"><span class="c2">Facilitar o turismo e proporcionar uma rota otimizada durante o tour. </span></p></td></tr></tbody></table>
+
+
+![image](https://user-images.githubusercontent.com/21113444/192591416-9903cea0-8f2e-4f1d-bfe8-654e0e3653e0.png)
